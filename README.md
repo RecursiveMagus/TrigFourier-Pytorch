@@ -1,6 +1,6 @@
 # TrigFourier-Pytorch
 
-Small class to compute fourier series in trigonometric (sine-cosine) form. I use it often in my PhD, so I thought it would be nice to share. Should be compatible with Pytorch and Autograd.
+Small class implemented in pytorch to compute fourier series in trigonometric (sine-cosine) form. I use it often in my PhD, so I thought it would be nice to share. Should be compatible with Autograd.
 
 
 ### Contents:
